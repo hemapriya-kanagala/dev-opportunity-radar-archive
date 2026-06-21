@@ -26,8 +26,8 @@ New editions are published weekly on DEV Community.
 
 * [What You'll Find Here](#what-youll-find-here)
 * [Series at a Glance](#series-at-a-glance)
-* [Editions](#editions)
-* [Community Finds](#community-finds)
+* [Recent Editions](#recent-editions)
+* [Recent Community Finds](#recent-community-finds)
 * [Suggest a Community Find](#suggest-a-community-find)
 * [Read the Series](#read-the-series)
 * [Copyright](#copyright)
@@ -62,7 +62,7 @@ Topics featured in the series include:
 
 ---
 
-## Editions
+## Recent Editions
 
 | Edition            | Highlights                                                                      | Published | Status  |
 | ------------------ | ------------------------------------------------------------------------------- | --------- | ------- |
@@ -71,9 +71,11 @@ Topics featured in the series include:
 | [Edition #2](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4) | FR8 Residency, AI Research Opportunities, Finland Residency                     | June 2026 | Archive |
 | [Edition #1](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3) | $100K Research Grant, Fellowships, AI Agent Resources                           | May 2026 | Archive |
 
+👉 [View the complete edition archive](editions.md)
+
 ---
 
-## Community Finds
+## Recent Community Finds
 
 One of my favorite parts of the series has been seeing readers share opportunities, communities, resources, and events that others might benefit from discovering.
 
@@ -84,6 +86,8 @@ One of my favorite parts of the series has been seeing readers share opportuniti
 | MLH Global Hack Week: Hacking for Good | Francis       | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
 
 I hope this section continues to grow over time.
+
+👉 [View all Community Finds](community-finds.md)
 
 ---
 
