@@ -1,18 +1,15 @@
-# Copyright Notice
+# Copyright and Usage Notice
 
 Copyright © 2026 Hemapriya Kanagala. All rights reserved.
 
-Unless otherwise stated, all original written content in this repository is protected by copyright.
+Dev Opportunity Radar is an original series written and maintained by the author.
 
-You may:
+You're welcome to share links to the series, reference it, and quote brief excerpts with attribution.
 
-* Share links to the content
-* Quote brief excerpts with attribution
+However, please do not republish entire articles, substantial portions of the content, or repository assets (including the banner artwork and branding) without permission.
 
-You may not:
+Any third-party names, trademarks, logos, or referenced materials remain the property of their respective owners.
 
-* Republish entire articles or substantial portions of the content
-* Redistribute the content as your own work
-* Use the content for commercial purposes without permission
+The opportunities, resources, communities, events, and deadlines referenced in this repository are provided for informational purposes only. Please verify details directly with the official organizers.
 
-For permission requests, please contact the author.
+If you'd like to reuse something beyond a short excerpt, feel free to reach out first.
