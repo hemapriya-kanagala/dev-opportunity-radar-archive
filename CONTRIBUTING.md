@@ -10,7 +10,7 @@ Each edition is personally researched, written, and curated by me every week. I 
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 * [Community Finds](#community-finds)
 * [How to Share](#how-to-share)
@@ -19,7 +19,7 @@ Each edition is personally researched, written, and curated by me every week. I 
 
 ---
 
-## 🌟 Community Finds
+## Community Finds
 
 One of my favorite parts of the series is **Community Finds**.
 
@@ -46,7 +46,7 @@ Some examples include:
 
 ---
 
-## 📬 How to Share
+## How to Share
 
 At the moment, I don't accept pull requests for new opportunities.
 
@@ -65,7 +65,7 @@ A little context goes a long way.
 
 ---
 
-## 📝 A Few Notes
+## A Few Notes
 
 * Every submission is reviewed before being featured.
 * While I can't guarantee every suggestion will appear in a future edition, I genuinely read every recommendation.
@@ -74,7 +74,7 @@ A little context goes a long way.
 
 ---
 
-## 💙 Thank You
+## Thank You
 
 Thank you for helping more people discover opportunities they might otherwise have missed.
 
