@@ -64,7 +64,9 @@ Each edition is different, but topics featured in the series commonly include:
 | Metric                   | Value    |
 | ------------------------ | -------- |
 | Editions Published       | 4        |
+| Opportunities & Resources Shared       | 18        |
 | Community Finds Featured | 3        |
+| Contributors Credited | 3        |
 | Started                  | May 2026 |
 | Publishing Schedule      | Every Friday   |
 
