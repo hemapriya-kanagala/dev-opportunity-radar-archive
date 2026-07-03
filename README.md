@@ -28,7 +28,7 @@ New editions are published every Friday on DEV Community.
 
 ## Latest Edition
 
-> 📍 **Latest:** **[Edition #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a $1,000 Award](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e))**
+> 📍 **Latest:** **[Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp)**
 
 ---
 
@@ -63,10 +63,10 @@ Each edition is different, but topics featured in the series commonly include:
 
 | Metric                   | Value    |
 | ------------------------ | -------- |
-| Editions Published       | 5        |
-| Opportunities & Resources Shared       | 22        |
-| Community Finds Featured | 4        |
-| Contributors Credited | 4        |
+| Editions Published       | 6        |
+| Opportunities & Resources Shared       | 26        |
+| Community Finds Featured | 5        |
+| Contributors Credited | 5        |
 | Started                  | May 2026 |
 | Publishing Schedule      | Every Friday   |
 
@@ -76,13 +76,13 @@ Each edition is different, but topics featured in the series commonly include:
 
 | Edition            | Highlights                                                                      | Published | Status  |
 | ------------------ | ------------------------------------------------------------------------------- | --------- | ------- |
-| [Edition #5](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e) | AWS All Builders Welcome Grant, Google Cloud Career Launchpad, Leaders of Today Award          | June 2026 | Latest  |
+| [Edition #6](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp) | Y Combinator Startup School, Sentient Open Source AGI Grant Program, APAC Stellar Hackathon | July 2026 | Latest |
+| [Edition #5](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e) | AWS All Builders Welcome Grant, Google Cloud Career Launchpad, Leaders of Today Award          | June 2026 | Archive  |
 | [Edition #4](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b) | Anthropic Fellows Program, LeapYear, AWS She Builds Mentorship Program          | June 2026 | Archive  |
 | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) | Neo Scholars, Gemini × XPRIZE AI Business Challenge, Claude Corps, AI Tinkerers | June 2026 | Archive |
 | [Edition #2](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4) | FR8 Residency, AI Research Opportunities, Finland Residency                     | June 2026 | Archive |
-| [Edition #1](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3) | $100K Research Grant, Fellowships, AI Agent Resources                           | May 2026 | Archive |
 
-👉 [View the complete edition archive](editions.md)
+👉 Showing the five most recent editions. For the complete archive, visit the [Edition Archive](editions.md).
 
 ---
 
@@ -92,6 +92,7 @@ One of my favorite parts of the series has been seeing readers share opportuniti
 
 | Community Find                         | Shared By     | Featured In |
 | -------------------------------------- | ------------- | ----------- |
+| CALEC Volunteer & Internship Opportunities | Francis | [Edition #6](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp) |
 | Hack with MLH & DigitalOcean                           | L. Cordero | [Edition #5](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e)  |
 | AI Tinkerers                           | Julien Avezou | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
 | Claude Corps                           | Phinn Markson | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
