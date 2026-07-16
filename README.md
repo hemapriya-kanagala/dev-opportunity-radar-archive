@@ -2,142 +2,121 @@
   <img src="banner.jpeg" alt="Dev Opportunity Radar" width="100%">
 </p>
 
-# Dev Opportunity Radar 
+# Dev Opportunity Radar Legacy Archive
 
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Legacy%20Archive-blue)
 ![Published](https://img.shields.io/badge/New%20Edition-Every%20Friday-blue)
 ![Community%20Finds](https://img.shields.io/badge/Community%20Finds-Welcome-orange)
 
-Welcome to the archive for **Dev Opportunity Radar**.
-
-This repository serves as the home for the series, making it easy to browse previous editions, Community Finds, and useful links all in one place.
-
-**Dev Opportunity Radar** is a weekly series where I share fellowships, grants, hackathons, startup programs, learning resources, communities, and other opportunities that developers, students, researchers, founders, and builders might otherwise miss.
-
-The goal is simple:
-
-**Help people discover opportunities they otherwise might have missed.**
-
-New editions are published every Friday on DEV Community.
-
-⭐ **If you've been enjoying the series, consider giving this repository a star.** It helps more people discover Dev Opportunity Radar, which means more people can discover opportunities they might otherwise have missed.
-
-> 💙 **Community Finds are always welcome.** If you know about an opportunity, community, or resource that others might benefit from, I'd love to hear from you. See **[CONTRIBUTING.md](CONTRIBUTING.md)** to learn how to submit one.
-
----
-
-## Latest Edition
-
-> 📍 **Latest:** **[Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon](https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12)**
+> [!IMPORTANT]
+> ## Dev Opportunity Radar has a new home
+>
+> Dev Opportunity Radar now has a dedicated website, making it easier to browse opportunities, search previous editions, explore Community Finds, and discover Reader Updates.
+>
+> 🌐 **Website:** https://devopportunityradar.ai.studio
+>
+> 💻 **Website Repository:** https://github.com/hemapriya-kanagala/dev-opportunity-radar
+>
+> 📰 **Weekly DEV Editions:** https://dev.to/hemapriya_kanagala
+>
+> New editions will continue to be published **every Friday on DEV Community.**
+>
+> This repository is preserved as the original archive of Dev Opportunity Radar.
+> 
+> Future editions, opportunities, Community Finds, and Reader Updates are now available on the website and through the weekly DEV editions.
 
 ---
 
-## Table of Contents
+## About
 
-* [What You'll Find Here](#what-youll-find-here)
-* [Series at a Glance](#series-at-a-glance)
-* [Recent Editions](#recent-editions)
-* [Recent Community Finds](#recent-community-finds)
-* [Suggest a Community Find](#suggest-a-community-find)
-* [Read the Series](#read-the-series)
-* [Copyright](#copyright)
+**Dev Opportunity Radar** is a community project that helps developers discover opportunities they otherwise might have missed.
 
----
+Every Friday, I publish a carefully curated edition on DEV Community featuring grants, fellowships, hackathons, startup programs, learning resources, open source initiatives, communities, internships, conferences, and other opportunities that I believe deserve more attention.
 
-## What You'll Find Here
+The goal has always been simple:
 
-Each edition is different, but topics featured in the series commonly include:
-
-| **Category**                     | **Examples**                                                 |
-| -------------------------------- | ------------------------------------------------------------ |
-| **Education & Research**      | Fellowships, Scholarships, Research Opportunities            |
-| **Startups & Founders**       | Startup Programs, Founder Opportunities, Builder Residencies |
-| **Career**                    | Internships, Technical Programs, Early-Career Opportunities  |
-| **Community**                 | Developer Communities, Conferences, Meetups, Events          |
-| **Learning**                  | Learning Resources, Courses, Books, Certifications           |
-| **Challenges & Competitions** | Hackathons, AI Challenges, Competitions                      |
+> **Help people discover opportunities they otherwise might have missed.**
 
 ---
 
-## Series at a Glance
+## Why this repository exists
 
-| Metric                   | Value    |
-| ------------------------ | -------- |
-| Editions Published       | 7        |
-| Opportunities & Resources Shared       | 30        |
-| Community Finds Featured | 5        |
-| Contributors Credited | 5        |
-| Started                  | May 2026 |
-| Publishing Schedule      | Every Friday   |
+When I published the first few editions, this repository became the easiest way to organize everything in one place.
 
----
+As the series continued to grow, so did the number of opportunities, Community Finds, Reader Updates, and weekly editions. Eventually, it became clear that a collection of Markdown files was no longer the best experience for readers.
 
-## Recent Editions
+That's what led to the Dev Opportunity Radar website.
 
-| Edition            | Highlights                                                                      | Published | Status  |
-| ------------------ | ------------------------------------------------------------------------------- | --------- | ------- |
-| [Edition #7](https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12) | Solo Grants, Claude for Open Source, Midnight Hackathon | July 10, 2026 | Latest |
-| [Edition #6](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp) | Y Combinator Startup School, Sentient Open Source AGI Grant Program, APAC Stellar Hackathon | July 3, 2026 | Archive |
-| [Edition #5](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e) | AWS All Builders Welcome Grant, Google Cloud Career Launchpad, Leaders of Today Award          | June 26, 2026 | Archive  |
-| [Edition #4](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b) | Anthropic Fellows Program, LeapYear, AWS She Builds Mentorship Program          | June 19, 2026 | Archive  |
-| [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf) | Neo Scholars, Gemini × XPRIZE AI Business Challenge, Claude Corps, AI Tinkerers | June 12, 2026 | Archive |
+The website is now the primary home for the project, while this repository remains here as a snapshot of where the journey began.
 
-👉 Showing the five most recent editions. For the complete archive, visit the [Edition Archive](editions.md).
+Rather than deleting it, I wanted to preserve it as part of the project's history.
 
 ---
 
-## Recent Community Finds
+## Where to Go
 
-One of my favorite parts of the series has been seeing readers share opportunities, communities, resources, and events that others might benefit from discovering.
+### 🌐 Website
 
-| Community Find                         | Shared By     | Featured In |
-| -------------------------------------- | ------------- | ----------- |
-| CALEC Volunteer & Internship Opportunities | Francis | [Edition #6](https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp) |
-| Hack with MLH & DigitalOcean                           | L. Cordero | [Edition #5](https://dev.to/devengers/dev-opportunity-radar-5-a-fully-funded-trip-to-aws-reinvent-google-cloud-career-launchpad-and-3p6e)  |
-| AI Tinkerers                           | Julien Avezou | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
-| Claude Corps                           | Phinn Markson | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
-| MLH Global Hack Week: Hacking for Good | Francis       | [Edition #3](https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf)  |
+The easiest way to explore Dev Opportunity Radar.
 
-I hope this section continues to grow over time.
+Browse opportunities by category, search previous editions, discover Community Finds, celebrate Reader Updates, and explore the project in a much more user-friendly way.
 
-👉 [View all Community Finds](community-finds.md)
+**Visit:** https://devopportunityradar.ai.studio
 
 ---
 
-## Suggest a Community Find
+### 📰 Weekly Editions
 
-Know about a fellowship, grant, hackathon, conference, startup program, community, learning resource, or another opportunity that more people should know about?
+The weekly editions are still the heart of Dev Opportunity Radar.
 
-I'd love to hear about it.
+A new edition is published every **Friday** on DEV Community, and that isn't changing.
 
-Please take a look at the **[Contributing Guide](CONTRIBUTING.md)** for the best way to submit a Community Find, along with a few tips that help me review suggestions more easily.
+Read the latest editions here:
 
-If your Community Find is featured in a future edition, I'll always make sure to credit you. If you discovered it, that recognition belongs to you.
-
----
-
-## Read the Series
-
-If you're looking specifically for **Dev Opportunity Radar**, this repository is the easiest place to browse every edition, Community Find, and archive in one place.
-
-If you'd like to explore my other articles as well, you can visit my DEV profile:
-
-👉 https://dev.to/hemapriya_kanagala
+https://dev.to/hemapriya_kanagala
 
 ---
 
-Thank you to everyone who reads, comments, shares opportunities, and contributes Community Finds.
+### 💻 Website Source Code
 
-A few weeks ago, this series was just an experiment.
+Interested in how the website was built?
 
-Since then, people have discovered opportunities through the radar, applied to programs, shared Community Finds, and helped make each edition better than the last.
+You can explore the complete source code here:
 
-My hope is that this slowly becomes **our radar**, not just mine.
+https://github.com/hemapriya-kanagala/dev-opportunity-radar
 
 ---
 
-## Copyright
+## Community Finds
 
-Dev Opportunity Radar is an original series written and maintained by Hemapriya Kanagala.
+Community Finds are still one of my favorite parts of this project.
 
-Please feel free to share links to the series. If you'd like to reuse or republish the content, please contact me first.
+If you discover an opportunity, resource, community, fellowship, hackathon, or anything else you think other developers would benefit from, I'd genuinely love to hear about it.
+
+The easiest way to share one is by leaving a comment under the latest DEV edition.
+
+If it's featured in a future edition or on the website, you'll always receive credit.
+
+---
+
+## A Small Thank You
+
+This repository represents the first chapter of Dev Opportunity Radar.
+
+What started as a simple idea slowly grew into a weekly series, a wonderful community, and eventually a dedicated website.
+
+None of that happened because I planned it from the beginning.
+
+It happened because people kept reading, sharing opportunities, leaving thoughtful comments, pointing out improvements, celebrating each other's successes, and encouraging me to keep going.
+
+Without this community, there wouldn't be a website.
+
+There probably wouldn't even be an Edition #8.
+
+Thank you for being part of this journey.
+
+I hope Dev Opportunity Radar continues to help people discover opportunities they otherwise might have missed for many Fridays to come 💙
+
+---
+
+Made with ❤️ by **Hemapriya Kanagala**
